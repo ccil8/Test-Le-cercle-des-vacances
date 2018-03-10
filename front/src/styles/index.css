@@ -1,0 +1,29 @@
+table
+{
+    border-collapse: collapse;    
+}
+
+td, th /* Mettre une bordure sur les td ET les th */
+{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.bouton{
+    width: 5px;
+    height: 2px;
+}
+
+.voyant{
+    width:100px;
+    height:30px;
+    margin:auto;
+    background-color:blue;
+}
+
+.voyant1{
+    width:100px;
+    height:30px;
+    margin:auto;
+    background-color:red;
+}
