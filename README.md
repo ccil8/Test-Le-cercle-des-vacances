@@ -1,15 +1,22 @@
 # Test-Le-cercle-des-vacances
 
 Front
+
 Ui​ ​:
+
 Faire une app avec un framework front Javascript de votre choix ( ex : React, Angular 2 … ).
+
 Page Elevators
+
 Ui des élévateurs
+
 ● faire le panneau interne de l'ascenseur
-● avec 10 boutons
-● 2 voyants :
-● un voyant qui montre si l'ascenseur monte ou descend.
-● un voyant qui indique si la porte est ouverte ou fermée.
+
+  ● avec 10 boutons
+  ● 2 voyants :
+    ● un voyant qui montre si l'ascenseur monte ou descend.
+    ● un voyant qui indique si la porte est ouverte ou fermée.
+    
 ● faire un tableau représentant l'immeuble, chaque ligne représente l'étage et le
 tableau à trois colonnes :
 ● la première colonne représente le nom de l'étage.
