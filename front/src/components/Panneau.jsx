@@ -19,6 +19,30 @@ class Panneau extends React.Component {
                 </tr>
                 <tr>
                 <td>
+                    <p>-5</p>
+                    <Bouton />
+                </td>
+                <td>
+                    <p>-4</p>
+                    <Bouton />
+                </td>
+                <td>
+                    <p>-3</p>
+                    <Bouton />
+                </td>
+                <td>
+                    <p>-2</p>
+                    <Bouton />
+                </td>
+                <td>
+                    <p>-1</p>
+                    <Bouton />
+                </td>
+                <td>
+                    <p>RDC</p>
+                    <Bouton />
+                </td>
+                <td>
                     <p>1</p>
                     <Bouton />
                 </td>

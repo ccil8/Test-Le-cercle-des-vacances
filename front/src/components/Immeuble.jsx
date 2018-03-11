@@ -19,6 +19,36 @@ class Immeuble extends React.Component {
                 </tr>
             </thead>
             <tbody>
+            <tr>
+                    <td>-5</td>
+                    <td><Voyant /></td>
+                    <td><Bouton /></td>
+                </tr>
+                <tr>
+                    <td>-4</td>
+                    <td><Voyant /></td>
+                    <td><Bouton /></td>
+                </tr>
+                <tr>
+                    <td>-3</td>
+                    <td><Voyant /></td>
+                    <td><Bouton /></td>
+                </tr>
+                <tr>
+                    <td>-2</td>
+                    <td><Voyant /></td>
+                    <td><Bouton /></td>
+                </tr>
+                <tr>
+                    <td>-1</td>
+                    <td><Voyant /></td>
+                    <td><Bouton /></td>
+                </tr>
+                <tr>
+                    <td>Rez-de Chaussée</td>
+                    <td><Voyant /></td>
+                    <td><Bouton /></td>
+                </tr>
                 <tr>
                     <td>1er étage</td>
                     <td><Voyant /></td>
