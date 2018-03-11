@@ -16,14 +16,13 @@ class Bouton extends React.Component{
         }));
         if (this.setState.appel = true ) {
             alert('Fermeture des portes');
+        } 
+        if (this.setState.appel = false) {
+            alert('Ouverture des portes');
         }
-        
     }
 
     render(){
-        if (this.setState.appel = true ) {
-            alert('Fermeture des portes');
-        }
         return(
             <div>
                 <button onClick={this.Appel}>
