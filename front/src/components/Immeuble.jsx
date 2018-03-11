@@ -2,6 +2,8 @@ import React from 'react';
 import Voyant from './Voyants';
 import Bouton from './Boutons';
 import '../styles/index.css'; 
+import Elevateur1 from '../actions/elevateur1';
+import Elevateur2 from '../actions/elevateur2';
 
 class Immeuble extends React.Component {
     render() {

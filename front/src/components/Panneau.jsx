@@ -1,7 +1,9 @@
 import React from 'react';
 import Voyant from './Voyants';
 import Bouton from './Boutons';
-//import {panneau} from '../styles/index.css'; 
+import Elevateur1 from '../actions/elevateur1';
+import Elevateur2 from '../actions/elevateur2';
+
 
 class Panneau extends React.Component {
     render() {

@@ -10,13 +10,5 @@ const UserSchema = new Schema(
   },
 );
 
-// Virtual for User's full name
-UserSchema
-  .virtual('name')
-  .get(function () {
-    return `${this.firstname} ${this.lastname}`;
-  });
 
-
-// Export model
 module.exports = mongoose.model('User', UserSchema);

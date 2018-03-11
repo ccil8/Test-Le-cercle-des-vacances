@@ -14,6 +14,9 @@ class Bouton extends React.Component{
         this.setState(prevState => ({
             appel: !prevState.appel
         }));
+        if (this.setState.appel = true ) {
+            alert('Fermeture des portes');
+        }
         
     }
 
